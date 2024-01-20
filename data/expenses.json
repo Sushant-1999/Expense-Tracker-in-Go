@@ -1,0 +1,676 @@
+{
+	"expenses": [
+		{
+			"transactionID": 5897,
+			"amount": 51.38,
+			"date": "2023-12-25",
+			"category": "RNT",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 7184,
+			"amount": 94.21,
+			"date": "2023-12-25",
+			"category": "DNG",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 9591,
+			"amount": 35.06,
+			"date": "2023-12-25",
+			"category": "EDU",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 7884,
+			"amount": 29.59,
+			"date": "2023-12-25",
+			"category": "ENT",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 3720,
+			"amount": 27.52,
+			"date": "2023-12-24",
+			"category": "SAV",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 1808,
+			"amount": 14.76,
+			"date": "2023-12-23",
+			"category": "HLC",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 4727,
+			"amount": 51.01,
+			"date": "2023-12-23",
+			"category": "DNG",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 2350,
+			"amount": 60.45,
+			"date": "2023-12-23",
+			"category": "EDU",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 6290,
+			"amount": 5.48,
+			"date": "2023-12-22",
+			"category": "INS",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 4557,
+			"amount": 50.61,
+			"date": "2023-12-21",
+			"category": "PRC",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 4033,
+			"amount": 4.78,
+			"date": "2023-12-20",
+			"category": "UTL",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 3092,
+			"amount": 18.16,
+			"date": "2023-12-20",
+			"category": "INS",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 4815,
+			"amount": 94.41,
+			"date": "2023-12-20",
+			"category": "EDU",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 9151,
+			"amount": 22.76,
+			"date": "2023-12-19",
+			"category": "INS",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 8429,
+			"amount": 58.0,
+			"date": "2023-12-19",
+			"category": "GFT",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 5958,
+			"amount": 11.26,
+			"date": "2023-12-19",
+			"category": "RNT",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 5263,
+			"amount": 57.4,
+			"date": "2023-12-19",
+			"category": "EDU",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 4061,
+			"amount": 82.82,
+			"date": "2023-12-18",
+			"category": "TRN",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 4005,
+			"amount": 32.84,
+			"date": "2023-12-18",
+			"category": "CLT",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 2596,
+			"amount": 76.54,
+			"date": "2023-12-18",
+			"category": "RNT",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 7611,
+			"amount": 31.56,
+			"date": "2023-12-17",
+			"category": "EDU",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 3361,
+			"amount": 97.32,
+			"date": "2023-12-17",
+			"category": "UTL",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 7697,
+			"amount": 95.34,
+			"date": "2023-12-17",
+			"category": "PRC",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 5903,
+			"amount": 73.02,
+			"date": "2023-12-17",
+			"category": "HOM",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 8021,
+			"amount": 26.44,
+			"date": "2023-12-17",
+			"category": "SAV",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 4029,
+			"amount": 37.77,
+			"date": "2023-12-16",
+			"category": "GFT",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 9888,
+			"amount": 17.92,
+			"date": "2023-12-16",
+			"category": "RNT",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 1531,
+			"amount": 37.29,
+			"date": "2023-12-16",
+			"category": "INS",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 8831,
+			"amount": 95.06,
+			"date": "2023-12-16",
+			"category": "DNG",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 3105,
+			"amount": 5.25,
+			"date": "2023-12-15",
+			"category": "EDU",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 9921,
+			"amount": 88.49,
+			"date": "2023-12-15",
+			"category": "HLC",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 8475,
+			"amount": 94.76,
+			"date": "2023-12-15",
+			"category": "HOM",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 6031,
+			"amount": 96.11,
+			"date": "2023-12-15",
+			"category": "HLC",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 4177,
+			"amount": 67.08,
+			"date": "2023-12-15",
+			"category": "DNG",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 7434,
+			"amount": 33.85,
+			"date": "2023-12-14",
+			"category": "GRS",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 3393,
+			"amount": 38.17,
+			"date": "2023-12-14",
+			"category": "GFT",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 2652,
+			"amount": 74.34,
+			"date": "2023-12-13",
+			"category": "HLC",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 1313,
+			"amount": 85.3,
+			"date": "2023-12-13",
+			"category": "RNT",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 9570,
+			"amount": 81.54,
+			"date": "2023-12-13",
+			"category": "GFT",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 2047,
+			"amount": 35.74,
+			"date": "2023-12-12",
+			"category": "DNG",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 4220,
+			"amount": 82.73,
+			"date": "2023-12-12",
+			"category": "HOM",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 6883,
+			"amount": 68.57,
+			"date": "2023-12-12",
+			"category": "HLC",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 8590,
+			"amount": 55.8,
+			"date": "2023-12-12",
+			"category": "GRS",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 5999,
+			"amount": 77.49,
+			"date": "2023-12-12",
+			"category": "PRC",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 2889,
+			"amount": 55.43,
+			"date": "2023-12-11",
+			"category": "TRN",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 3533,
+			"amount": 33.84,
+			"date": "2023-12-11",
+			"category": "EDU",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 3377,
+			"amount": 72.89,
+			"date": "2023-12-11",
+			"category": "DNG",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 9919,
+			"amount": 55.57,
+			"date": "2023-12-11",
+			"category": "EDU",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 7626,
+			"amount": 22.02,
+			"date": "2023-12-10",
+			"category": "HOM",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 2678,
+			"amount": 17.38,
+			"date": "2023-12-09",
+			"category": "SAV",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 7513,
+			"amount": 98.12,
+			"date": "2023-12-09",
+			"category": "CLT",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 8938,
+			"amount": 35.39,
+			"date": "2023-12-09",
+			"category": "UTL",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 5356,
+			"amount": 76.95,
+			"date": "2023-12-08",
+			"category": "HOM",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 5196,
+			"amount": 66.43,
+			"date": "2023-12-08",
+			"category": "TRN",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 7333,
+			"amount": 88.94,
+			"date": "2023-12-08",
+			"category": "TRV",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 2577,
+			"amount": 46.33,
+			"date": "2023-12-08",
+			"category": "CLT",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 6369,
+			"amount": 46.94,
+			"date": "2023-12-07",
+			"category": "HLC",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 6772,
+			"amount": 38.08,
+			"date": "2023-12-07",
+			"category": "TRN",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 1289,
+			"amount": 16.69,
+			"date": "2023-12-07",
+			"category": "UTL",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 7440,
+			"amount": 78.96,
+			"date": "2023-12-07",
+			"category": "DNG",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 3222,
+			"amount": 98.76,
+			"date": "2023-12-07",
+			"category": "SAV",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 2702,
+			"amount": 35.74,
+			"date": "2023-12-06",
+			"category": "GFT",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 4250,
+			"amount": 30.82,
+			"date": "2023-12-06",
+			"category": "HOM",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 3440,
+			"amount": 10.88,
+			"date": "2023-12-06",
+			"category": "EDU",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 3112,
+			"amount": 84.93,
+			"date": "2023-12-05",
+			"category": "UTL",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 6018,
+			"amount": 28.49,
+			"date": "2023-12-05",
+			"category": "HOM",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 8372,
+			"amount": 55.87,
+			"date": "2023-12-05",
+			"category": "HLC",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 9073,
+			"amount": 30.22,
+			"date": "2023-12-05",
+			"category": "ENT",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 9294,
+			"amount": 39.89,
+			"date": "2023-12-04",
+			"category": "GFT",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 8729,
+			"amount": 13.34,
+			"date": "2023-12-03",
+			"category": "TRV",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 5134,
+			"amount": 96.0,
+			"date": "2023-12-03",
+			"category": "HOM",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 2528,
+			"amount": 4.69,
+			"date": "2023-12-03",
+			"category": "SAV",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 2254,
+			"amount": 42.27,
+			"date": "2023-12-03",
+			"category": "EDU",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 7561,
+			"amount": 94.27,
+			"date": "2023-12-02",
+			"category": "TRN",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 5957,
+			"amount": 17.87,
+			"date": "2023-12-02",
+			"category": "TRV",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 6874,
+			"amount": 69.1,
+			"date": "2023-12-02",
+			"category": "PRC",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 8667,
+			"amount": 92.46,
+			"date": "2023-12-02",
+			"category": "HOM",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 5807,
+			"amount": 98.42,
+			"date": "2023-12-02",
+			"category": "TRV",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 8635,
+			"amount": 44.93,
+			"date": "2023-12-01",
+			"category": "EDU",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 3426,
+			"amount": 39.79,
+			"date": "2023-12-01",
+			"category": "GRS",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 6561,
+			"amount": 94.97,
+			"date": "2023-12-01",
+			"category": "ENT",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 8379,
+			"amount": 54.7,
+			"date": "2023-12-01",
+			"category": "GRS",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 5427,
+			"amount": 87.21,
+			"date": "2023-12-01",
+			"category": "TRN",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 6685,
+			"amount": 60.01,
+			"date": "2023-11-30",
+			"category": "INS",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 5394,
+			"amount": 83.61,
+			"date": "2023-11-29",
+			"category": "TRN",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 1054,
+			"amount": 71.37,
+			"date": "2023-11-29",
+			"category": "ENT",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 4040,
+			"amount": 24.96,
+			"date": "2023-11-28",
+			"category": "PRC",
+			"user": "alice_green"
+		},
+		{
+			"transactionID": 5476,
+			"amount": 72.1,
+			"date": "2023-11-28",
+			"category": "ENT",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 1928,
+			"amount": 62.32,
+			"date": "2023-11-28",
+			"category": "GRS",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 8294,
+			"amount": 12.96,
+			"date": "2023-11-28",
+			"category": "HOM",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 6671,
+			"amount": 51.94,
+			"date": "2023-11-27",
+			"category": "PRC",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 5296,
+			"amount": 61.68,
+			"date": "2023-11-27",
+			"category": "TRV",
+			"user": "john_doe"
+		},
+		{
+			"transactionID": 1248,
+			"amount": 84.65,
+			"date": "2023-11-26",
+			"category": "TRN",
+			"user": "jane_smith"
+		},
+		{
+			"transactionID": 6516,
+			"amount": 28.4,
+			"date": "2023-11-26",
+			"category": "UTL",
+			"user": "bob_jones"
+		},
+		{
+			"transactionID": 6975,
+			"amount": 21.49,
+			"date": "2023-11-26",
+			"category": "DNG",
+			"user": "sam_wilson"
+		},
+		{
+			"transactionID": 1703,
+			"amount": 35.96,
+			"date": "2023-11-26",
+			"category": "EDU",
+			"user": "sam_wilson"
+		}
+	]
+}

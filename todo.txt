@@ -1,0 +1,5 @@
+Postgres Integration Database Instead of JSON
+Swagger Documentation Integration
+Add few more APis 
+Add Middleware like Authentication
+Make Simple UI if Possible

@@ -1,0 +1,34 @@
+{
+	"users": [
+		{
+			"username": "john_doe",
+			"firstName": "John",
+			"lastName": "Doe",
+			"email": "john@example.com"
+		},
+		{
+			"username": "jane_smith",
+			"firstName": "Jane",
+			"lastName": "Smith",
+			"email": "jane@example.com"
+		},
+		{
+			"username": "bob_jones",
+			"firstName": "Bob",
+			"lastName": "Jones",
+			"email": "bob@example.com"
+		},
+		{
+			"username": "alice_green",
+			"firstName": "Alice",
+			"lastName": "Green",
+			"email": "alice@example.com"
+		},
+		{
+			"username": "sam_wilson",
+			"firstName": "Sam",
+			"lastName": "Wilson",
+			"email": "sam@example.com"
+		}
+	]
+}

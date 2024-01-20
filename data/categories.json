@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "id": "GRS",
+            "name": "Groceries",
+            "description": "Food items, household supplies, and essentials from grocery stores"
+        },
+        {
+            "id": "UTL",
+            "name": "Utilities",
+            "description": "Bills for electricity, water, gas, internet, and essential services"
+        },
+        {
+            "id": "RNT",
+            "name": "Rent/Mortgage",
+            "description": "Housing-related expenses, including rent or mortgage payments"
+        },
+        {
+            "id": "TRN",
+            "name": "Transportation",
+            "description": "Expenses related to commuting, such as fuel, public transportation fares, or maintenance"
+        },
+        {
+            "id": "DNG",
+            "name": "Dining",
+            "description": "Money spent on meals at restaurants, cafes, or take-out"
+        },
+        {
+            "id": "ENT",
+            "name": "Entertainment",
+            "description": "Expenses for movies, concerts, events, or other leisure activities"
+        },
+        {
+            "id": "HLC",
+            "name": "Healthcare",
+            "description": "Medical expenses, insurance premiums, and prescription medications"
+        },
+        {
+            "id": "CLT",
+            "name": "Clothing",
+            "description": "Expenses related to clothing and accessories"
+        },
+        {
+            "id": "EDU",
+            "name": "Education",
+            "description": "Tuition fees, books, and other educational expenses"
+        },
+        {
+            "id": "TRV",
+            "name": "Travel",
+            "description": "Expenses for vacations, hotels, flights, and other travel-related costs"
+        },
+        {
+            "id": "PRC",
+            "name": "Personal Care",
+            "description": "Expenses for personal grooming, toiletries, and spa services"
+        },
+        {
+            "id": "GFT",
+            "name": "Gifts/Donations",
+            "description": "Money spent on gifts for others or donations to charitable organizations"
+        },
+        {
+            "id": "HOM",
+            "name": "Home Maintenance",
+            "description": "Expenses for home repairs, maintenance, or improvements"
+        },
+        {
+            "id": "INS",
+            "name": "Insurance",
+            "description": "Payments for various types of insurance, such as health, life, or car insurance"
+        },
+        {
+            "id": "SAV",
+            "name": "Savings",
+            "description": "Money set aside for savings or investments"
+        }
+    ]
+}
